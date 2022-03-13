@@ -202,3 +202,7 @@ You may want to shutdown and restart WSL at this point to make sure the rules ki
 
 Connect the target
 Refer to the [Pico SDK docs](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf) for details.
+
+![pico wiring diagram](images/picoprobe-wiring.png)
+
+![picoprobe in use](images/picoprobe-use.png)
